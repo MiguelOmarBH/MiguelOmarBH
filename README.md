@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiguelOmarBH
-- 👀 I’m a pyshcologist passionated about neuroscience and marketing
+- 👀 I’m a pyshcologist passionated about science and research
 - 🌱 I’m here to share my own data analysis projects as a part of my professional development
 
 <!---
